@@ -1,6 +1,6 @@
 name: Musings of a Wayward Sinner
 favicon: null
-layout_spectrum: 0.9753930373117328
+layout_spectrum: 1
 typography_spectrum: 0.3681585353333503
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.9912869341205806
-  lightness: 0.7349395947530866
-  saturation: 0.23326015775091946
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.6248744437471032
 purpose: []
