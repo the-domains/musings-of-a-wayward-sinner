@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Musings of a Wayward Sinner]]></title>
         <description><![CDATA[Musings of a Wayward Sinner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/musings-of-a-wayward-sinner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 22:49:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 22:47:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musings-of-a-wayward-sinner/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Create in me a pure heart Oh Lord. Let it be a light that shines, that I may see you and you alone."</p>]]></description>
+            <link>https://thegrid.ai/musings-of-a-wayward-sinner/create-in-me-a-pure-heart-oh-lord-let-it-be-a-light-that-s/index.html</link>
+            <guid isPermaLink="false">b8da476e-c989-4c44-816e-bcf24adf2d5f</guid>
+            <pubDate>Thu, 04 Aug 2016 22:47:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>August 4, 2016</p>]]></description>
-            <link>undefinedaugust-4-2016/index.html</link>
+            <link>https://thegrid.ai/musings-of-a-wayward-sinner/august-4-2016/index.html</link>
             <guid isPermaLink="false">470c12ed-7091-49a4-8b9b-fca1f35ab5bf</guid>
             <pubDate>Wed, 03 Aug 2016 22:49:38 GMT</pubDate>
         </item>
